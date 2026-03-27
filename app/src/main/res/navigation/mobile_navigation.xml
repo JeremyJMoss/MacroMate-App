@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.hypertrofit.ui.home.HomeFragment"
+        android:name="com.macromate.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_food_log"
-        android:name="com.hypertrofit.ui.foodLog.FoodLogFragment"
+        android:name="com.macromate.ui.foodLog.FoodLogFragment"
         android:label="Food Log"
         tools:layout="@layout/fragment_food_log" />
 

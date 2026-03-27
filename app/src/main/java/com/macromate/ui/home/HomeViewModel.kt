@@ -1,13 +1,13 @@
-package com.hypertrofit.ui.foodLog
+package com.macromate.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class FoodLogViewModel : ViewModel() {
+class HomeViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is Food Log"
+        value = "This is Dashboard"
     }
     val text: LiveData<String> = _text
 }

@@ -1,4 +1,4 @@
-package com.hypertrofit
+package com.macromate
 
 import org.junit.Test
 

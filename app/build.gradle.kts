@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.hypertrofit"
+    namespace = "com.macromate"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.hypertrofit"
+        applicationId = "com.macromate"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

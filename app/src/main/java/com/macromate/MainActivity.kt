@@ -1,13 +1,12 @@
-package com.hypertrofit
+package com.macromate
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.hypertrofit.databinding.ActivityMainBinding
+import com.macromate.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

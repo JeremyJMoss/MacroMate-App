@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HyperTroFit"
+rootProject.name = "MacroMate"
 include(":app")

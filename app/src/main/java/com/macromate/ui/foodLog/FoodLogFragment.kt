@@ -1,4 +1,4 @@
-package com.hypertrofit.ui.foodLog
+package com.macromate.ui.foodLog
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.hypertrofit.databinding.FragmentFoodLogBinding
+import com.macromate.databinding.FragmentFoodLogBinding
 
 class FoodLogFragment : Fragment() {
 
